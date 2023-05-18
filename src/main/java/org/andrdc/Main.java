@@ -1,4 +1,4 @@
-package org.example;
+package org.andrdc;
 
 public class Main {
     public static void main(String[] args) {
